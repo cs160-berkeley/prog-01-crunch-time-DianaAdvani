@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .gradle
 /local.properties
 /.idea/workspace.xml
@@ -6,6 +7,8 @@
 .DS_Store
 /build
 =======
+=======
+>>>>>>> ae6b155d72b18a9207445ef76262f9a801c0d64e
 # Built application files
 *.apk
 *.ap_
@@ -41,4 +44,7 @@ captures/
 
 # Mac DS_Store files
 .DS_Store
+<<<<<<< HEAD
+>>>>>>> ae6b155d72b18a9207445ef76262f9a801c0d64e
+=======
 >>>>>>> ae6b155d72b18a9207445ef76262f9a801c0d64e
