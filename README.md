@@ -12,7 +12,7 @@ See https://www.youtube.com/watch?v=rXakvLjT9ck
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screen Shot 2016-02-05 at 3.21.09 PM.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
