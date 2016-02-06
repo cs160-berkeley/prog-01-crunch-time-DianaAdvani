@@ -1,6 +1,6 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+This app is a calorie converter. It is pretty simple. There are four icons on the top of the screen that correspond to different activities (sit-ups, jogging, push ups, and jumping jacks). When you input a number in the text field below the icons and clip an icon it will tell you how many calories you will burn with the inputed number of reps or minutes of the selected activity. Red number appear on the other activity icons to indicate how many reps or minutes of that activity it will take to burn a corresponding number of calories
 
 ## Authors
 
